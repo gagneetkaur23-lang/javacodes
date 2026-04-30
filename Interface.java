@@ -13,7 +13,7 @@ class bike implements engine,brake{
         System.out.println ("brake applied");
     }
 }
-public class Main{
+public class Interface{
     public static void main(String[] args){
 bike obj = new bike();
 obj.start();
@@ -33,6 +33,4 @@ obj.applyBrake();
 
 
 
-public class interface {
-    
-}
+

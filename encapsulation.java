@@ -1,8 +1,8 @@
 public class encapsulation {
     private int name;
 
-    public void setName(int x){
-name=x;
+    public void setName(int x){             //setter method
+name=x;                                     //getter method
     }
     public int getName(){
     return name;
