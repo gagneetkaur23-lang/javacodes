@@ -19,7 +19,7 @@ System.out.println("Array index Exception caught");
         }
 
         finally{
-            System.out.println("program finished");
+            System.out.println("Program finished");
         }
 }
     }
